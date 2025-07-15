@@ -1,2 +1,2 @@
 # MFBG-Magnolias
-ArcGIS Magnolia Map with Hover Pop-ups
+ArcGIS Magnolia Land Map with Hover Pop-ups
